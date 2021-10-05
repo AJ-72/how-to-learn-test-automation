@@ -9,4 +9,5 @@ Here are some resources to start learning about API testing and automation
 - [Rest API Quick Tips](https://www.restapitutorial.com/lessons/restquicktips.html)
 - [Post Man Tutorial ](https://youtube.com/playlist?list=PL6iUkDSEH9SvsgM4zyFrTnaewN65NZHAG)
 - [Api Testing With Python](https://www.youtube.com/watch?v=YeAWDfxqD7g)
+- [API testing With Java/RestAssured](https://testautomationu.applitools.com/learningpaths.html?id=api-java-path)
 
